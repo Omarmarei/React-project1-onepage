@@ -16,5 +16,5 @@ This project is a single-page application built using React. It showcases variou
 2. Install dependencies:
 npm install
 3. Start the development server:
-npm start
+npm run dev
 4. Open your browser and navigate to http://localhost:3000 to view the application.
