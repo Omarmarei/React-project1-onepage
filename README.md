@@ -18,3 +18,5 @@ npm install
 3. Start the development server:
 npm run dev
 4. Open your browser and navigate to http://localhost:3000 to view the application.
+
+Please note that this project includes a starter package from Udemy React: The Complete Guide (incl Hooks, React Router, Redux).
